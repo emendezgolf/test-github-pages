@@ -1,3 +1,24 @@
+#
+# Site settings
+#
 remote_theme: LeakyAbstractions/pretty-docs
-title: Test Documentation
-description: Demo for documentation
+url: https://www.google.com
+baseurl: /pretty-docs
+title: &site_title Pretty Docs
+description: &site_description Free Bootstrap theme for your project documentation
+branding:
+  icon:
+    name: icon_documents_alt
+  highlight: Pretty
+  bold: Docs
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+  footnote_nr: 1
+  parse_block_html: true
+
