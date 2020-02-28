@@ -9,15 +9,6 @@ tagline: |
   Ready to use in *&nbsp;*{: .fa .fa-github} Github Pages
 heading: Getting started is easy!
 navigation:
-  - /start
-  - /components
-  - /charts
-  - /faqs
-  - /showcase
-  - /credits
-  - /news
-  - /community
-  - /legal
 ---
 
 # Header 1
