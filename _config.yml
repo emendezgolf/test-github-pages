@@ -21,4 +21,12 @@ kramdown:
   hard_wrap: false
   footnote_nr: 1
   parse_block_html: true
+  
+#
+# Collections
+#
+collections:
+  doc:
+    output: true
+    permalink: /:path.html
 
