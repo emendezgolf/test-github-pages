@@ -1,6 +1,6 @@
 # Header 1
 
-Some text explaining a workflow
+Some text explaining a workflow.
 
 ## Section
 
