@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Test Documentation
 description: Demo for documentation
+github:
+  is_project_page: false
