@@ -2,10 +2,15 @@
 # Site settings
 #
 remote_theme: LeakyAbstractions/pretty-docs
-url: https://www.google.com
-baseurl: /docs
-title: &site_title Pretty Docs
+url: https://leakyabstractions.github.io
+baseurl: /pretty-docs
+title: &site_title Pretty Docs 2
 description: &site_description Free Bootstrap theme for your project documentation
+branding:
+  icon:
+    name: icon_documents_alt
+  highlight: Pretty
+  bold: Docs
 markdown: kramdown
 kramdown:
   auto_ids: true
@@ -16,7 +21,55 @@ kramdown:
   hard_wrap: false
   footnote_nr: 1
   parse_block_html: true
-  
+
+
+#
+# Owner
+#
+owner:
+  name: Guillermo Calvo
+  twitter: &site_owner_twitter gcalvo
+  copyright:
+    notice: Lorem Ipsum
+    author: "[Guillermo Calvo](https://guillermo.in/)"
+
+
+#
+# Social
+#
+open_graph:
+  title: *site_title
+  site_name: *site_title
+  description: *site_description
+  locale: en_US
+  image: /assets/images/thumb.png
+twitter_cards:
+  title: *site_title
+  description: *site_description
+  creator: *site_owner_twitter
+  card: summary_large_image
+  image: /assets/images/thumb.png
+share:
+  facebook:
+    class: fb-like
+    action: like
+    layout: button_count
+    show-faces: false
+    share: false
+  twitter:
+    via: *site_owner_twitter
+    text: &site_description
+    title: Tweet
+  github:
+    repo: LeakyAbstractions/pretty-docs
+    position: right
+    color: red
+
+
+# Google Analytics
+google_analytics: UA-61670496-5
+
+
 #
 # Collections
 #
@@ -24,6 +77,7 @@ collections:
   doc:
     output: true
     permalink: /:path.html
+
 
 #
 # Default values
