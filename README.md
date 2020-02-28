@@ -2,11 +2,11 @@
 
 Some text explaining a workflow
 
-## Header 2
+## Section
 
 Another explanation with a [link](https://google.com).
 
-# Header 3
+# Header 2
 
 Some other stuff with an image:
 
