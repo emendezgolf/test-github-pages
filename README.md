@@ -60,34 +60,6 @@ Jekyll community. It is strictly enforced on all official Jekyll
 repositories, websites, and resources. If you encounter someone violating
 these terms, please let one of our [core team members](https://jekyllrb.com/team/#core-team) know and we will address it as soon as possible.
 
-## Credits
-
-### Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up in this README with a link to your website. [Become a sponsor!](https://opencollective.com/jekyll#sponsor)
-
-<a href="https://opencollective.com/jekyll/sponsor/0/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/0/avatar.svg" /></a>
-<a href="https://opencollective.com/jekyll/sponsor/1/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/1/avatar.svg" /></a>
-<a href="https://opencollective.com/jekyll/sponsor/2/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/2/avatar.svg" /></a>
-<a href="https://opencollective.com/jekyll/sponsor/3/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/3/avatar.svg" /></a>
-<a href="https://opencollective.com/jekyll/sponsor/4/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/4/avatar.svg" /></a>
-<a href="https://opencollective.com/jekyll/sponsor/5/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/5/avatar.svg" /></a>
-<a href="https://opencollective.com/jekyll/sponsor/6/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/6/avatar.svg" /></a>
-<a href="https://opencollective.com/jekyll/sponsor/7/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/7/avatar.svg" /></a>
-<a href="https://opencollective.com/jekyll/sponsor/8/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/8/avatar.svg" /></a>
-<a href="https://opencollective.com/jekyll/sponsor/9/website" target="_blank"><img src="https://opencollective.com/jekyll/sponsor/9/avatar.svg" /></a>
-
-### Contributors
-
-This project exists thanks to all the people who contribute.
-<a href="../../graphs/contributors"><img src="https://opencollective.com/jekyll/contributors.svg?width=890&button=false" /></a>
-
-### Backers
-
-Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/jekyll#backer)
-
-<a href="https://opencollective.com/jekyll#backers" target="_blank"><img src="https://opencollective.com/jekyll/backers.svg?width=890" /></a>
-
 ## License
 
 See the [LICENSE](https://github.com/jekyll/jekyll/blob/master/LICENSE) file.
