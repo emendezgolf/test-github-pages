@@ -9,3 +9,4 @@ color: green
 sections:
   - /intro
 ---
+This is a test.
