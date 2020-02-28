@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: leakyabstractions/pretty-docs
 title: Test Documentation
 description: Demo for documentation
 github:
