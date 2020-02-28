@@ -1,6 +1,6 @@
 ---
 title: API Documentation
-excerpt: Demo example, consectetuer adipiscing elit
+excerpt: Test
 date: 2016-01-25
 icon:
   type: fa
